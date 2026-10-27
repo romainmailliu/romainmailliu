@@ -7,8 +7,8 @@ J'accompagne les associations et entrepreneur.e.s engagé.e.s à mettre la Tech 
 **Ce que je fais**
 - [Création de site vitrine à Marseille dès 300 €](https://www.romainmailliu.com/site-vitrine) : rapide, bien référencé, modifiable par vous
 - [Outils numériques et IA pour les associations](https://www.romainmailliu.com/associations)
-- Automatisations et agents IA branchés sur vos outils : CRM, compta, emails, formulaires
-- [Accompagnement IA pour managers & dirigeant·e·s](https://www.romainmailliu.com/ai-training)
+- [Automatisations et agents IA branchés sur vos outils](https://www.romainmailliu.com) : CRM, compta, emails, formulaires
+- Accompagnement IA pour managers & dirigeant·e·s
 
 **Ma façon de travailler** · Consultant en stratégie, chef de projet en ONG puis entrepreneur : je prends la bonne casquette pour vous accompagner, aussi à l'aise pour créer de jolies matrices BCG que pour déboguer du code les mains dans le cambouis !
 
