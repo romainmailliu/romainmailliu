@@ -10,7 +10,7 @@ J'accompagne les associations et entrepreneur.e.s engagé.e.s à mettre la Tech 
 - Automatisations et agents IA branchés sur vos outils : CRM, compta, emails, formulaires
 - [Accompagnement IA pour managers & dirigeant·e·s](https://www.romainmailliu.com/ai-training)
 
-**Ma façon de travailler** · l'IA en coulisse, votre mission au premier plan. Vous gardez votre code, documenté pour que votre IA puisse le faire évoluer après moi.
+**Ma façon de travailler** · J'ai été consultant en stratégie, chef de projet dans une ONG et entrepreneur : je prends la bonne casquette pour vous accompagner, aussi à l'aise pour créer de jolies matrices BCG que pour déboguer du code les mains dans le cambouis !
 
 **En ce moment** · Gomett, pour faciliter l'entraide entre entrepreneurs avec une monnaie alternative.
 
