@@ -17,8 +17,8 @@ J'accompagne les associations et entrepreneur.e.s engagé.e.s à mettre la Tech 
 **Stack**
 - Web · Next.js (App Router) · React · TypeScript · Tailwind CSS · shadcn/ui · React Native (Expo)
 - IA · Claude API · agents IA · MCP · Claude Code · n8n · automatisations no-code
-- Données · Supabase · Sanity (headless CMS) · Airtable · Stripe · Resend
-- CMS & e-commerce · WordPress · WooCommerce
+- Données · Supabase · Airtable · Resend
+- CMS & e-commerce · WordPress · WooCommerce · Sanity (headless CMS) · Stripe
 - Infra · Cloudflare Workers (edge) · Vercel · Turborepo · CI/CD
 - Qualité · PostHog · Playwright · Vitest · SEO & GEO
 
