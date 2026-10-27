@@ -10,9 +10,9 @@ J'accompagne les associations et entrepreneur.e.s engagé.e.s à mettre la Tech 
 - Automatisations et agents IA branchés sur vos outils : CRM, compta, emails, formulaires
 - [Accompagnement IA pour managers & dirigeant·e·s](https://www.romainmailliu.com/ai-training)
 
-**Ma façon de travailler** · Consultant en stratégie, chef de projet en ONG puis entrepreneur : je prends la bonne casquette pour vous accompagner, à l'aise pour créer de jolies matrices BCG que pour déboguer du code les mains dans le cambouis !
+**Ma façon de travailler** · Consultant en stratégie, chef de projet en ONG puis entrepreneur : je prends la bonne casquette pour vous accompagner, aussi à l'aise pour créer de jolies matrices BCG que pour déboguer du code les mains dans le cambouis !
 
-**Sur mon temps libre** · Je développe gomett.com, pour faciliter l'entraide entre entrepreneurs avec une monnaie alternative. J'écris sur PrendsTaDose.fr, des Capsules culture pour analphabètes lettrés ;)
+**Sur mon temps libre** · Je développe [gomett.com](https://www.gomett.com), pour faciliter l'entraide entre entrepreneurs avec une monnaie alternative. J'écris sur [PrendsTaDose.fr](https://www.prendstadose.fr), des Capsules culture pour analphabètes lettrés ;)
 
 **Stack**
 - Web · Next.js (App Router) · React · TypeScript · Tailwind CSS · shadcn/ui · React Native (Expo)
